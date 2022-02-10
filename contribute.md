@@ -20,6 +20,7 @@ This is a curated list so the goal is not to collect all possible resources but 
 - Step 6: Edit **README.md** like this
 
 ```[name](https://github.com/name)
+
 <details>
 <summary>Preview  </summary>
 

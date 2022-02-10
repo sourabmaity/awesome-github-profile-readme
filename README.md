@@ -1,6 +1,11 @@
 # Awesome GitHub Profile README Template
 This repository contains good quality profile readme's for your reference. 
 
+A collection of GitHub profile README's examples.
+
+[Contributions](https://github.com/sourabmaity/awesome-github-profile-readme/blob/main/contribute.md) are welcome. Read the [guidelines](https://github.com/sourabmaity/awesome-github-profile-readme/blob/main/contribute.md) how to contribute.
+Feel free to add your or some one else's GitHub profile README file.
+
 Don't forget to hit the ⭐, If you like this repo.
 
 
